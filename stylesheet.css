@@ -158,7 +158,7 @@ header .header-cases {
 .index-banner { 
   width: 100%;
   height: calc(100vh - 100px);
-  background-image: url('img/man.jpg');
+  background-image: url(https://images.pexels.com/photos/19606768/pexels-photo-19606768.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
